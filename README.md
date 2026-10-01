@@ -6,11 +6,11 @@
 
 ###
 
-<h2 data-importer="text" align="left">Sophomore pursuing a BSc in Computer Science.<br>💻 Aspiring Software Engineer passionate about building real-world applications.<br>🌱 Currently learning Full-Stack Web Development.<br>🐍 Familiar with Python, C, C++ and HTML/CSS.<br>🚀 Working on personal projects and strengthening my problem-solving skills.<br>🎯 Goal: Become a Software Engineer and eventually explore AI engineering.</h2>
+<h2 data-importer="text" align="left">💻 Aspiring Software Engineer passionate about building real-world applications.<br>🌱 Currently learning Full-Stack Web Development.<br>🐍 Familiar with Python, C, C++ and HTML/CSS.<br>🚀 Working on personal projects and strengthening my problem-solving skills.<br>🎯 Goal: Become a Software Engineer and eventually explore AI engineering.</h2>
 
 ###
 
-<p data-importer="text" align="left">🛠️ I'm currently learning... Full-Stack Web Development, React, & Advanced DSA<br><br>🎯 Goals... Build 5 full-stack projects this year & contribute to Open Source<br><br>⚡ Fun fact... I spend 10% of my time writing code and 90% figuring out why it works!</p>
+<p data-importer="text" align="left">🎯 Goals... Build 5 full-stack projects this year & contribute to Open Source<br><br>⚡ Fun fact... I spend 10% of my time writing code and 90% figuring out why it works!</p>
 
 ###
 
